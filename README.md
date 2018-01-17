@@ -1,4 +1,4 @@
-# Install-ROS-Kinetic-Full-Desktop
+# Install-ROS-Kinetic-Full-Desktop (On Linux Machine)
 
 
 ## Clone the directory and find ROSkinetic.sh 
