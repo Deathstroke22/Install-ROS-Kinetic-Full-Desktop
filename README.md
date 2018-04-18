@@ -3,7 +3,7 @@
 
 ## Clone the directory and find ROSkinetic.sh 
 
-git clone https://github.com/Deathstroke22/Install-ROS-Kinetic-Full-Desktop.git
+git clone https://github.com/roboss95/Install-ROS-Kinetic-Full-Desktop.git
 
 ## Make ROSkinetic.sh executable 
 
