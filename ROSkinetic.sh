@@ -20,6 +20,8 @@ sudo rosdep init
 rosdep update
 # Environment Setup
 echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+echo "source $HOME/catkin_ws/devel/setup.bash" >> ~/.bashrc 
 source ~/.bashrc
 # Install rosinstall
 sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
+
